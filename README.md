@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @ChrisChou-freeman
-- 👀 I’m interested in Node.js Python and Golang
-- 🌱 I’m currently learning Golang TypeScript
-
-<!---
-ChrisChou-freeman/ChrisChou-freeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
+<img src="https://github-readme-stats.vercel.app/api?username=ChrisChou-freeman&count_private=true" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisChou-freeman&layout=compact" width="375"/>
